@@ -134,9 +134,15 @@ Key environment variables to configure in `.env`:
 
 This project is proprietary software. All rights reserved.
 
-## 👨‍💻 Author
+## 👨‍💻 Developed By
 
-**Mesbah Uddin Meju**
+**4axiz IT Ltd**
+
+🌐 Website: [https://fouraxiz.com](https://fouraxiz.com)
+
+## 👨‍💻 Backend Developer
+
+**Mesbah Uddin**
 
 - 📧 Email: [uddin.mesbaah@gmail.com](mailto:uddin.mesbaah@gmail.com)
 - 🌐 Website: [mesbahuddin.info](https://mesbahuddin.info)
@@ -156,4 +162,4 @@ For business inquiries or support:
 
 ---
 
-**Built with ❤️ by Mesbah Uddin Meju**
+**Built with ❤️ by 4axiz IT Ltd**
