@@ -160,6 +160,4 @@ For business inquiries or support:
 - **Address:** Aziz bhaban, 93/b motijheel, 11th floor, dhaka-1000
 - **Phone:** +8801675789968
 
----
 
-**Built with ❤️ by 4axiz IT Ltd**
