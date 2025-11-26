@@ -140,7 +140,7 @@ This project is proprietary software. All rights reserved.
 
 🌐 Website: [https://fouraxiz.com](https://fouraxiz.com)
 
-## 👨‍💻 Backend Developer
+## 👨‍💻 Fullstack Developer
 
 **Mesbah Uddin**
 
@@ -152,12 +152,5 @@ This project is proprietary software. All rights reserved.
 ## 🤝 Contributing
 
 This is a private project. For any inquiries or collaboration opportunities, please contact the author.
-
-## 📞 Contact
-
-For business inquiries or support:
-- **Email:** frukinz@gmail.com
-- **Address:** Aziz bhaban, 93/b motijheel, 11th floor, dhaka-1000
-- **Phone:** +8801675789968
 
 
